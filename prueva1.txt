@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 esto es una prueva
 vercion3
 
+=======
+esto es una prueva
+>>>>>>> parent of a0dd0b7... prueba 2
