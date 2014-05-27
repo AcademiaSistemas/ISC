@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-esto es una prueva
-vercion3
-verciion 4---- yadira
 
-=======
 esto es una prueva
->>>>>>> parent of a0dd0b7... prueba 2
+ prueba 4
