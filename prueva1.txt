@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 esto es una prueva
 vercion3
+verciion 4---- yadira
 
 =======
 esto es una prueva
